@@ -122,3 +122,9 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+/* CSS for confirming-Ara ID */
+#confirming-Area{
+    display: none;
+    margin-left: 100px;
+    
+}
